@@ -1,2 +1,2 @@
 # login.html
-this is log in form
+This is a Log-in Form.
